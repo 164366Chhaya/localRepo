@@ -1,2 +1,5 @@
 # First page using Git and GitHub
-Ok fine
+Ok fine  
+Nice job  
+Learning by Shradha Didi
+
